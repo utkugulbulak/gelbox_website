@@ -19,7 +19,7 @@ The problem is that the software has not found a good fit. There are two distinc
 
 It is not always easy to identify the situation. One possible first step is visualizing the fitting process to observe how the function develops through iterations. Draw Fitting checkbox, shown in the red rectangle, lets users visualize fitting. As soon as the box is checked, the fitting starts over. Please note that this might take a little bit longer as each fitting iteration is simultaneously plotted.
 
-<video src="https://github.com/Campbell-Muscle-Lab/GelBox/assets/98066302/95cf4387-1897-48d9-ac23-2b83ad690f51" controls="controls" style="max-width: 730px;"></video>
+<video src="https://github.com/utkugulbulak/gelbox_website/assets/98066302/2b565a73-f751-4250-bc79-8b6e7933328e" controls="controls" style="max-width: 730px;"></video>
 
 The first couple of iterations shows that the application does not accurately predict the peak locations. Click the Fitting Parameters in the Fitting panel for the starting parameter estimates. Although the peak locations are roughly around 20 and 60 for band 1 and band 2, the estimated parameters are 100 and 80, respectively.
 
