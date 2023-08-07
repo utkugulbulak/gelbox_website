@@ -31,7 +31,7 @@ This button brings up a Windows File Open Dialog. Locate and load the GelBox ana
 
 <a href="media/load_analysis.png" target="_blank">![Load analysis](media/load_analysis.PNG)</a>
 
-After few seconds, the analysis is loaded to the interface. All the operations described in [start new analysis tutorial](../start_new_analysis/start_new_analysis.html) are available upon loading.
+After a few seconds, the analysis is loaded to the interface. All the operations described in [start new analysis tutorial](../start_new_analysis/start_new_analysis.html) are available upon loading.
 
 <a href="media/loaded_analysis.png" target="_blank">![Loaded analysis](media/loaded_analysis.png)</a>
 
