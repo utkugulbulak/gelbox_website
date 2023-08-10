@@ -95,7 +95,7 @@ The newly generated box appears light green. The GelBox 3 automatically processe
 
 The box can be resized and dragged along the image. The fitting process automatically follows the position of the box. You can explore a better fit by replacing or resizing the box.
 
-<video src="https://github.com/Campbell-Muscle-Lab/GelBox/assets/98066302/57e4dd0d-7a9a-45c1-8eaf-675f5119d8ba" controls="controls" style="max-width: 730px;"></video>
+<video src="https://github.com/utkugulbulak/gelbox_website/assets/98066302/c842ff1b-8fdd-4861-89f2-d806ad2d6bdf" controls="controls" style="max-width: 730px;"></video>
 
 The fitting parameters are initialized by GelBox 3 and can be edited using the Fitting Parameters button (red rectangle) in the Fitting Panel.
 
@@ -119,7 +119,7 @@ You can change the selected box using the Box Selection dropdown, shown in a rec
 
 The second box can also be dragged around the image. However, when the selected box is resized, all the existing boxes also change their size. Please note that the fits may change as a result of resizing. Make sure to check all the existing boxes to verify fits.
 
-<video src="https://github.com/Campbell-Muscle-Lab/GelBox/assets/98066302/c3bc0ba9-5a59-405e-b01a-bcba2f3b403e" controls="controls" style="max-width: 730px;"></video>
+<video src="https://github.com/utkugulbulak/gelbox_website/assets/98066302/6b3de7f7-a04b-4d5e-9f93-cc54eecba010" controls="controls" style="max-width: 730px;"></video>
 
 The new box positions, sizes, and area values can be accessed through the Selected Box Information window. Click the Data Analysis button on the toolbar, shown in the red rectangle. 
 
