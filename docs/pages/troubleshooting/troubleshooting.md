@@ -6,14 +6,14 @@ has_childre: False
 
 # Troubleshooting
 
-This page provides simple troubleshooting steps for analysis with GelBox 3. Clicking on any of the images on this page will open a larger version in a new browser window.
+This page provides simple troubleshooting steps for analysis with GelBox. Clicking on any of the images on this page will open a larger version in a new browser window.
 
 Here's an example of a situation you might encounter with your gels. Please note that the fitted function does not properly represent the density profile. The application only captures one peak, so there is only one non-zero Gaussian function.
 
 The problem is that the software has not found a good fit. There are two distinct possibilities.
 
 + There is not  a good mathematical fit to the experimentally-measured profile, and
-+ There is a good fit, and GelBox 3 could not find it
++ There is a good fit, and GelBox could not find it
 
 <a href="media/single_curve.png" target="_blank">![Single curve](media/single_curve.png)</a>
 
@@ -29,7 +29,7 @@ Change the peak location of band 2 to 70 and click the Update Fitting button.
 
 <a href="media/parameters_changed.png" target="_blank">![Parameters changed](media/parameters_changed.png)</a>
 
-Please note that GelBox 3 successfully detected the two peaks after changing the peak locations. You can look for better fits by changing the size and position the region of interest (ROI) box.
+Please note that GelBox successfully detected the two peaks after changing the peak locations. You can look for better fits by changing the size and position the region of interest (ROI) box.
 
 <a href="media/drag_box_down.png" target="_blank">![Drag box down](media/drag_box_down.png)</a>
 

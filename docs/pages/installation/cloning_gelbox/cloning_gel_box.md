@@ -1,5 +1,5 @@
 ---
-title: Cloning GelBox 3
+title: Cloning GelBox
 has_children: false
 parent: Installation
 nav_order: 1
